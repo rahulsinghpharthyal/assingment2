@@ -60,6 +60,14 @@ cd ../frontend
 npm start
 The frontend development server will run on http://localhost:3000 by default.
 
+
+When you start the project you may sign in as a default user if you want to admin you can manualy change the role into the backend role is admin like that 
+if you want to use my Database url: -mongodb+srv://rahulpharthyal04:ypM9D0wlm97ApuFM@cluster0.cumer.mongodb.net/assingment
+and the credential for admin is suraj@gmail.com and password is: admin
+so kindaly login as a admin in this
+
+
+
 API Endpoints
 User Routes
 GET /api/auth/get-avilable - Retrieve a list of available users.
